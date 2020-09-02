@@ -1,3 +1,7 @@
+Good day!
+
+Feel free to browse through some of the projects done in FORTRAN. 
+
 The first project is a 2D truss model with 1D analysis done in FORTRAN and the overall objective of this project was to develop a finite element algorithm that allows a user to solve a truss structure with n number of elements. 
 
 The algorithm allows the user to achieve the following:

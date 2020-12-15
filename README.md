@@ -16,3 +16,5 @@ The second project is solving for a 1D cantilever beam using numerical methods. 
 I used to two methods to solve this problem, one by using triangular elements and second using 4-noded isoparameteric elements and then did convergence studies to see which of the two took lesser time to get to a result. An image showing the deformed and undeformed cantilever beam, along with its corresponding stress contours is provided below: 
 
 ![Capture](https://user-images.githubusercontent.com/62857780/102270695-4d004780-3eec-11eb-90ed-e07db6f0e9f5.JPG)
+
+![Capture](https://user-images.githubusercontent.com/62857780/102270977-b08a7500-3eec-11eb-8dd8-2d203a33d67c.JPG)
